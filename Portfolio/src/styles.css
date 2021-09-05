@@ -1,0 +1,38 @@
+* {
+  background: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: black;
+}
+.App {
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+}
+.main {
+  color: white;
+  text-align: left;
+  line-height: 300%;
+  font-size: 20px;
+}
+.p1 {
+  color: white;
+  word-spacing: 20px;
+}
+.para {
+  color: white;
+}
+.head {
+  color: white;
+}
+.Image {
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: 22px;
+  border-radius: 100%;
+  transform: translateX(-50%);
+  width: 250px;
+  height: 250px;
+}
